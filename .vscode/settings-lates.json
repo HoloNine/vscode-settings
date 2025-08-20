@@ -1,0 +1,312 @@
+{
+    "breadcrumbs.enabled": false,
+    "charmed-icons.hidesExplorerArrows": true,
+    "workbench.iconTheme": "charmed-soft",
+    "workbench.editor.showTabs": "single",
+    "workbench.statusBar.visible": true,
+    "workbench.startupEditor": "none",
+    "workbench.tips.enabled": false,
+    "workbench.tree.enableStickyScroll": false,
+    "workbench.tree.renderIndentGuides": "none",
+    "workbench.tree.indent": 8,
+    "explorer.compactFolders": false,
+    "editor.minimap.enabled": false,
+    "editor.fontFamily": "JetBrains Mono",
+    "editor.lineHeight": 2,
+    "editor.fontSize": 16,
+    "editor.scrollbar.horizontal": "hidden",
+    "editor.scrollbar.vertical": "hidden",
+    "editor.cursorBlinking": "smooth",
+    "editor.cursorStyle": "block",
+    "editor.stickyScroll.enabled": false,
+    "editor.tabSize": 2,
+    "github.copilot.nextEditSuggestions.enabled": true,
+    "terminal.integrated.fontFamily": "JetBrainsMono Nerd Font",
+    "terminal.integrated.fontSize": 12,
+    "terminal.integrated.lineHeight": 1.2,
+    "files.autoSaveDelay": 9000,
+    "files.associations": {
+      "*.module": "php",
+      "*.blade.php": "php",
+      // "*.css": "css-hubl",
+      // "*.html": "html-hubl"
+    },
+      "files.exclude": {
+      "**/__pycache__": true,
+      "**/.DS_Store": true,
+      "**/.git": true,
+      "**/*.spec.ts": true,
+      "**/package-lock.json": true,
+      "**/node_modules": true
+    },
+    "[html]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[html-hubl]": {
+      "editor.formatOnSave": true,
+      "editor.formatOnType": true
+    },
+    "[css]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[css-hubl]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    }, 
+    "[javascript]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[javascriptreact]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[typescript]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[typescriptreact]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[scss]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[json]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[jsonc]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "workbench.colorCustomizations": {
+    "[Default Dark Modern]": {
+      "activityBar.activeBorder": "#D9596A",
+      "activityBar.border": "#090909",
+      "activityBar.foreground": "#FFFFFF",
+      "activityBarBadge.background": "#D9596A",
+      "activityBarBadge.foreground": "#ffffff",
+      "button.background": "#D9596A",
+      "button.hoverBackground": "#D9596A",
+      "editor.background": "#181818",
+      "editorGroupHeader.tabsBorder": "#090909",
+      "editorGutter.modifiedBackground": "#D9596A",
+      "editorIndentGuide.activeBackground1": "#090909",
+      "editorIndentGuide.background1": "#181818",
+      "focusBorder": "#09090900",
+      "menu.selectionBackground": "#D9596A",
+      "notifications.border": "#090909",
+      "panel.border": "#090909",
+      "panelInput.border": "#090909",
+      "panelTitle.activeBorder": "#D9596A",
+      "progressBar.background": "#D9596A",
+      "sideBar.border": "#090909",
+      "sideBarSectionHeader.border": "#090909",
+      "statusBar.border": "#090909",
+      "statusBar.debuggingBackground": "#D9596A",
+      "statusBar.focusBorder": "#D9596A",
+      "statusBarItem.focusBorder": "#D9596A",
+      "statusBarItem.remoteBackground": "#D9596A",
+      "tab.activeBackground": "#181818",
+      "tab.activeBorder": "#090909",
+      "tab.activeBorderTop": "#D9596A",
+      "tab.border": "#090909",
+      "tab.hoverBackground": "#181818",
+      "tab.unfocusedActiveBorderTop": "#090909",
+      "terminal.tab.activeBorder": "#D9596A",
+      "textBlockQuote.background": "#090909",
+      "textCodeBlock.background": "#090909",
+      "titleBar.border": "#090909",
+      "welcomePage.progress.foreground": "#D9596A",
+      "welcomePage.tileBackground": "#090909",
+      "commandCenter.debuggingBackground": "#D9596A42",
+      "commentsView.unresolvedIcon": "#D9596A",
+      "editorCommentsWidget.rangeActiveBackground": "#D9596A1a",
+      "editorCommentsWidget.rangeBackground": "#D9596A1a",
+      "editorCommentsWidget.unresolvedBorder": "#D9596A",
+      "editorOverviewRuler.modifiedForeground": "#D9596A99",
+      "editorStickyScroll.shadow": "#00000000",
+      "editorWhitespace.foreground": "#090909",
+      "extensionBadge.remoteBackground": "#D9596A",
+      "extensionButton.background": "#D9596A",
+      "extensionButton.prominentBackground": "#D9596A",
+      "inlineChat.shadow": "#00000000",
+      "inlineChatInput.focusBorder": "#D9596A",
+      "list.activeSelectionBackground": "#090909c6",
+      "list.focusOutline": "#D9596A00",
+      "list.hoverBackground": "#090909c6",
+      "list.inactiveSelectionBackground": "#090909c6",
+      "listFilterWidget.shadow": "#00000000",
+      "minimapGutter.modifiedBackground": "#D9596A",
+      "multiDiffEditor.border": "#090909",
+      "notebook.cellInsertionIndicator": "#D9596A",
+      "notebook.focusedCellBorder": "#D9596A",
+      "notebook.focusedEditorBorder": "#D9596A",
+      "panelStickyScroll.shadow": "#00000000",
+      "sash.hoverBorder": "#D9596A",
+      "scrollbar.shadow": "#00000000",
+      "settings.focusedRowBorder": "#D9596A",
+      "tree.indentGuidesStroke": "#18181800",
+      "editor.foreground": "#d4d4d4",
+      "editor.lineHighlightBackground": "#090909c6",
+      "editor.lineHighlightBorder": "#09090900"
+    }
+  },
+  "editor.tokenColorCustomizations": {
+    "textMateRules": [
+      {
+        "scope": [
+          "comment",
+          "comment.block.documentation.phpdoc keyword.other.phpdoc",
+          "entity.name.type.instance.jsdoc"
+        ],
+        "settings": {
+          "foreground": "#ffffff69"
+        }
+      },
+      {
+        "scope": ["variable", "variable.other", "variable.other.readwrite"],
+        "settings": {
+          "foreground": "#d19166"
+        }
+      },
+      {
+        "scope": [
+          "storage.type.phpdoc.php",
+          "support.type.primitive.phpdoc.php",
+          "comment.block.documentation.phpdoc.php",
+          "storage.type.class.jsdoc",
+          "variable.other.jsdoc"
+        ],
+        "settings": {
+          "foreground": "#ffffff51"
+        }
+      },
+      {
+        "scope": [
+          "keyword",
+          "constant.numeric",
+          "keyword.operator",
+          "variable.other.constant.object.js",
+          "support.type.property-name.json"
+        ],
+        "settings": {
+          "foreground": "#d19a66"
+        }
+      },
+      {
+        "scope": [
+          "entity.name.class",
+          "support.class",
+          "variable.other.constant"
+        ],
+        "settings": {
+          "foreground": "#e5c07b"
+        }
+      },
+      {
+        "scope": [
+          "variable.property",
+          "variable.other.property",
+          "entity.name.function",
+          "support.function"
+        ],
+        "settings": {
+          "foreground": "#D9596A"
+        }
+      },
+      {
+        "scope": ["string"],
+        "settings": {
+          "foreground": "#c3c3c3"
+        }
+      },
+      {
+        "scope": [
+          "support.function.magic",
+          "entity.name.type.namespace.php",
+          "entity.name.type.class.php",
+          "keyword.control.return.php",
+          "keyword.control.if.php",
+          "keyword.control.foreach.php",
+          "storage.type.js",
+          "keyword.control.flow.js",
+          "keyword.control.conditional.js",
+          "entity.other.attribute-name.js"
+        ],
+        "settings": {
+          "foreground": "#867ce6"
+        }
+      }
+    ]
+  },
+  "intelephense.stubs": [
+    "apache",
+    "bcmath",
+    "bz2",
+    "calendar",
+    "com_dotnet",
+    "Core",
+    "ctype",
+    "curl",
+    "date",
+    "dba",
+    "dom",
+    "enchant",
+    "exif",
+    "FFI",
+    "fileinfo",
+    "filter",
+    "fpm",
+    "ftp",
+    "gd",
+    "gettext",
+    "gmp",
+    "hash",
+    "iconv",
+    "imap",
+    "intl",
+    "json",
+    "ldap",
+    "libxml",
+    "mbstring",
+    "meta",
+    "mysqli",
+    "oci8",
+    "odbc",
+    "openssl",
+    "pcntl",
+    "pcre",
+    "PDO",
+    "pgsql",
+    "Phar",
+    "posix",
+    "pspell",
+    "random",
+    "readline",
+    "Reflection",
+    "session",
+    "shmop",
+    "SimpleXML",
+    "snmp",
+    "soap",
+    "sockets",
+    "sodium",
+    "SPL",
+    "sqlite3",
+    "standard",
+    "superglobals",
+    "sysvmsg",
+    "sysvsem",
+    "sysvshm",
+    "tidy",
+    "tokenizer",
+    "xml",
+    "xmlreader",
+    "xmlrpc",
+    "xmlwriter",
+    "xsl",
+    "Zend OPcache",
+    "zip",
+    "zlib",
+    "wordpress"
+  ],
+  "git.enableSmartCommit": true,
+  "git.confirmSync": false,
+  "git.autofetch": true,
+  "window.zoomLevel": 1
+}
